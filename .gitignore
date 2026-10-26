@@ -1,0 +1,6 @@
+.DS_Store
+signing/
+*.p12
+*.jks
+*.keystore
+*.password
